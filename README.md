@@ -1,4 +1,4 @@
-#### <strong> Vish-s-Python-Lab </strong>
+# **Vish-s-Python-Lab**
 My Python Lab 6 - A Journey Through Python Basics
 ## Short description
 This repository contains the Python code for Lab 6, which marks my first hands-on experience with Python after installing Anaconda. This lab was crucial in helping me understand the fundamental concepts of Python programming, including variables, loops, conditionals, and functions.
@@ -78,6 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 - **Simplicity and Permissiveness**: The MIT License is short and to the point. It lets people do almost anything they want with your project, like using, copying, modifying, merging, publishing, distributing, sublicensing, and/or selling copies of the software, as long as they provide attribution back to you and don’t hold you liable.
 
 ### Acknowledgments
-- **Instructors and Mentors**: Special thanks to the instructors and mentors who guided me through the learning process of Python.
-- **Peers**: Gratitude to my peers who provided support and collaboration opportunities throughout the lab exercises.
+- **Instructors and Mentors**: Special thanks to Omar Al'Trad who guided me through the learning process of Python.
+- **Peers**: Gratitude to my peers David He, Ian David, and Athar Ali Syed who provided support and collaboration opportunities throughout the lab exercises.
 - **Anaconda and Jupyter Teams**: Thankful for the excellent tools that facilitated my learning and experimentation in Python programming.
+

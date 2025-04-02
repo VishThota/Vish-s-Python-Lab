@@ -20,6 +20,21 @@ Here's a step-by-step guide to setting up your project locally:
 3. Launch Anaconda Navigator: Open Anaconda Navigator through your start menu or command line. From the Navigator, launch Jupyter Notebook.
 4. Open the Notebook: In Jupyter Notebook, navigate to the directory where you cloned the repository and open the .ipynb file to access the Python Lab 6 notebook.
 
+### Data Files
+This project utilizes several CSV files for data manipulation and analysis tasks performed in the Jupyter notebook. Below is a description of each file and its role in the project:
+
+- **census.csv**: Contains demographic data used to demonstrate data filtering and aggregation techniques.
+- **licenses.csv**: Includes information about various licenses, used to illustrate join operations and data merging methods.
+- **wards.csv**: Provides data on administrative divisions, used for geographic data manipulations and visualizations.
+
+#### How to Use the Data Files
+1. Ensure that you have cloned the repository with the data files as described in the "Installing" section.
+2. When running the notebook, the code will reference these files to load data, so make sure they are in the same directory as the notebook, or adjust the file paths in the notebook accordingly.
+3. Explore and manipulate the data as demonstrated in the notebook, or extend the analyses with your own questions and methods.
+
+These files are essential for completing the exercises and examples detailed in the Python notebook.
+
+
 ### Running the Tests
 This section explains how to run the tests associated with the Python notebook, if applicable. The notebook for Lab 6 primarily focuses on learning and experimenting with Python basics, and may not include formal automated tests. However, you can manually test the code by running each cell in the Jupyter Notebook to ensure the outputs are as expected.
 

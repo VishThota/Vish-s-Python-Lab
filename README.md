@@ -1,4 +1,4 @@
-# Vish-s-Python-Lab
+#### <strong> Vish-s-Python-Lab </strong>
 My Python Lab 6 - A Journey Through Python Basics
 ## Short description
 This repository contains the Python code for Lab 6, which marks my first hands-on experience with Python after installing Anaconda. This lab was crucial in helping me understand the fundamental concepts of Python programming, including variables, loops, conditionals, and functions.
@@ -14,7 +14,7 @@ Here's a step-by-step guide to setting up your project locally:
 
 1. **Clone the repository**: First, clone this repository to your local machine using Git. Open your terminal and run the following command:
    ```bash
-   git clone https://github.com/VishThota/Vish's-Python-Lab.git
+   git clone https://github.com/VishThota/Vish-s-Python-Lab.git
 2. Navigate to the repository folder: Change your directory to the cloned repository:
    cd Vish's-Python-Lab
 3. Launch Anaconda Navigator: Open Anaconda Navigator through your start menu or command line. From the Navigator, launch Jupyter Notebook.
